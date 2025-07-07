@@ -15,9 +15,6 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs)
 
-### 📈 Stats GitHub :
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Romain-dev85&show_icons=true&theme=radical)
-
 ### 📚 En ce moment, j’apprends :
 - 🔥 My SQL
 - 🔥 Express
