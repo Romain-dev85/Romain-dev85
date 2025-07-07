@@ -20,6 +20,7 @@
 - 🔥 Express
 
 ### 📫 Me contacter :
-[![LinkedIn](https://img.shields.io/badge/www.linkedin.com/in/romain-auvinet-103793328-blue)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romain-auvinet-103793328)
+
 
 
